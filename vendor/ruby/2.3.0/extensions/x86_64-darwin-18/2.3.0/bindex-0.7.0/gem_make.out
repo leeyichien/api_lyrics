@@ -1,0 +1,15 @@
+current directory: /Users/yvonne/api_lyrics/vendor/ruby/2.3.0/gems/bindex-0.7.0/ext/skiptrace
+/Users/yvonne/.rvm/rubies/ruby-2.3.1/bin/ruby -r ./siteconf20190509-6029-ih61ob.rb extconf.rb
+creating Makefile
+
+current directory: /Users/yvonne/api_lyrics/vendor/ruby/2.3.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/yvonne/api_lyrics/vendor/ruby/2.3.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/cruby.bundle
+
+current directory: /Users/yvonne/api_lyrics/vendor/ruby/2.3.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 cruby.bundle ./.gem.20190509-6029-hq40v3/skiptrace
